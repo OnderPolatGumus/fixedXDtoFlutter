@@ -1,6 +1,7 @@
-name: xdPlugin
+name: XDtoFlutter
 description: Generate code for building apps with Flutter based on your designs in Adobe XD with the “XD to Flutter” plugin. This package contains helper widgets used by the plugin.
 repository: https://github.com/AdobeXD/xd-to-flutter-plugin/tree/master/adobe_xd
+fixedrepo: https://github.com/OnderPolatGumus/fixedXDtoFlutter
 homepage: https://adobe.com/go/xd_to_flutter
 
 version: 2.0.1
